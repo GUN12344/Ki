@@ -1,1 +1,1 @@
-# Ki
+game.Players.LocalPlayer:Kick("ไอHumLek")
